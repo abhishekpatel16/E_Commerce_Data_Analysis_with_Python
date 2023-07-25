@@ -11,13 +11,23 @@ Each data source system contains 3 types of datasets named Customers, Products, 
 
 Use cases:
 Usecase 1 to Usecase 7 (about csv)
-Usecase-1 Load all three csv datasets in Pandas Data frames and display first 5 records. 
+
+Usecase-1 Load all three csv datasets in Pandas Data frames and display first 5 records.
+
 Usecase-2 Display only those customers from CSV_s1, who purchased more than 3 products.
+
 Usecase-3 Display top 5 most demanded products from CSV_s1.
+
 Usecase-4 Display top 5 transactions amount from CSV_s1.
+
 Usecase-5 Display distinct professions from CSV_s1.
+
 Usecase-6 Display highest age in CSV_s1 customer’s dataset.
+
 Usecase-7 Display custno, gender, age, profession, contactno, productno, productName, txndate, spendby, amount from CSV_s1 for custno = 923
+
 Usecase-8 Load all three PSV (pipe separated values) dataset in Pandas Data frames and display first 5 records.
+
 Usecase-9 Load all three JSON datasets in Pandas Data frames and display first 5 records.
+
 Usecase-10 Load all three XML datasets in Pandas Data frames and display first 5 records.
